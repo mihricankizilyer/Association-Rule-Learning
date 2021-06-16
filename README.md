@@ -7,7 +7,7 @@
 ***Business Problem:***
 
 - Suggesting products to users at the basket stage.
-- 
+
 ***Dataset Story:***
 
 - The data set named Online Retail II includes the sales of a UK-based online store between 01/12/2009 and 09/12/2011.
